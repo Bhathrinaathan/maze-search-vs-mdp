@@ -1,4 +1,4 @@
-# Maze Pathfinding: Classical Search vs MDP Planning
+# Maze Pathfinding — Search vs MDP
 
 Six maze-solving algorithms, one maze generator, an interactive Tkinter visualiser, and a benchmark across maze sizes from 10×10 to 100×100.
 
